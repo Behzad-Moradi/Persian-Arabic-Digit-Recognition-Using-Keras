@@ -1,6 +1,6 @@
 # Persian-Arabic-Digit-Recognition-Using-Keras
 
-This is a python code for Perian/Arabic Handwritten Digit Recognition.
+This is a python code for Persian/Arabic Handwritten Digit Recognition.
 
 The model is created using Keras library.
 
